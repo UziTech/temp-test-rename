@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "test-rename:toggle"
   },
-  "repository": "https://github.com/UziTech/test-rename",
+  "repository": "https://github.com/UziTech/temp-test-rename",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
